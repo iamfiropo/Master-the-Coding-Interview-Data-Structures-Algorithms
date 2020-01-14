@@ -10,4 +10,4 @@ const twoSum = (arr1, target) => {
   return 'not found';
 }
 
-twoSum([1,2,3,4,4], 7);
+twoSum([2, 7, 11, 15], 9);
