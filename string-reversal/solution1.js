@@ -1,1 +1,0 @@
-const stringReversal = str => str.reverse();
